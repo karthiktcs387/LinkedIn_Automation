@@ -81,9 +81,9 @@ Notes
 Make sure ChromeDriver version matches Chrome browser
 Avoid using automated login with Google (blocked by security)
 Use manual login if needed
-📌 Output
+ Output
 Extracts and prints top 5 LinkedIn posts
 Saves screenshot if error occurs
-👤 Author
+ Author
 
 Karthik
