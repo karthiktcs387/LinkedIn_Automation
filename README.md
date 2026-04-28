@@ -87,14 +87,3 @@ Saves screenshot if error occurs
 👤 Author
 
 Karthik
-
-
----
-
-# How to add this to GitHub
-
-1. Go to your repo  
-2. Click **Add file → Create new file**  
-3. Name:
-```text
-README.md
