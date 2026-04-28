@@ -76,3 +76,25 @@ for i in range(min(5, len(posts))):
 
 input("Press Enter to close...")
 driver.quit()
+
+Notes
+Make sure ChromeDriver version matches Chrome browser
+Avoid using automated login with Google (blocked by security)
+Use manual login if needed
+📌 Output
+Extracts and prints top 5 LinkedIn posts
+Saves screenshot if error occurs
+👤 Author
+
+Karthik
+
+
+---
+
+# How to add this to GitHub
+
+1. Go to your repo  
+2. Click **Add file → Create new file**  
+3. Name:
+```text
+README.md
